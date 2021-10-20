@@ -1,7 +1,8 @@
 # Balloon Analog Risk Task (BART)
 
-author: Hannah Sophie Heinrichs
-date: 6/26/2020
+Author: Hannah Sophie Heinrichs
+
+Date: 6/26/2020
 
 ## Task
 

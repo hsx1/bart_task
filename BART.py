@@ -1,6 +1,4 @@
-# Take Home Exam, Python: Programming Skills
-# Name: Hannah Heinrichs
-# s-number: s1046753
+# Name: Hannah Sophie Heinrichs
 # date: 6/26/2020
 
 # A simple version of the Balloon Analog Risk Task (BART) written with PsychoPy.
